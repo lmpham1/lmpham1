@@ -17,6 +17,14 @@ Hi, my name is Minh, a coding enthusiast and a recent graduate at Seneca College
 - Collaborated with Docusaurus’ maintainers to add a new feature that allows users to link a Navbar item with a Sidebar object with ease (Read more in my [blog series](https://medium.com/@lmpham1/next-step-in-open-source-60b31d185ff7))
 - [Pull request link](https://github.com/facebook/docusaurus/pull/6139)
 
+**Fragment - A microservice with AWS cloud integration**
+- Developed a Node.js microservice that allows optimized CRUD operations using AWS S3 and DynamoDB, and manages user authentication with AWS Cognito using OAuth 2.0 protocol.
+- Wrote unit tests and integration tests with Jest and Hurl.
+- Automated CI, CD, and deployment with Git, Docker, AWS EC2, and Elastic Beanstalk.
+- Project repos:
+  - [Backend](https://github.com/lmpham1/fragments_backend)
+  - [Frontend](https://github.com/lmpham1/fragments_frontend)
+
 **Game Deals Web App**
 - Implemented and tested a React + Node.js + MongoDB web application that lets users see the price difference between multiple video game vendors, and creates email alerts for when games in user's wishlist go on sales
 - Collaborated with a team of three other developers throughout the SDLC
