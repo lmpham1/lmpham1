@@ -1,6 +1,6 @@
 ## Le Minh Pham
 
-Hi, my name is Minh, a coding enthusiast and a recent graduate at Seneca College. Looking forward to applying what I learned to the real world by contributing to open-source projects and developing my own.
+Hi, my name is Minh. I do code sometimes.
 
 ### Contacts
 **Email**: [pham.lminh512@gmail.com](pham.lminh512@gmail.com)
