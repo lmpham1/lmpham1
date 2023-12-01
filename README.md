@@ -12,7 +12,7 @@ I'm a developer and tech tinkerer based in Toronto, Canada.
 
 ### Contacts
 📧: [e-Mail](pham.lminh512@gmail.com)  
-:bird: [~~Twitter~~ X](x.com/est2000vn)
+:bird: [~~Twitter~~ X](x.com/est2000vn)  
 📷 [Instagram](www.instagram.com/minhl_pham/)
 
 <!---
