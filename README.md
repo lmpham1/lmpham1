@@ -1,39 +1,19 @@
-## Le Minh Pham
+# Le Minh Pham
 
-Hi, my name is Minh. I do code sometimes.
+## Hello, my name is Minh. 
+I'm a developer and tech tinkerer based in Toronto, Canada.
+
+### (un)Exciting stuff I've worked on
+- Fiddled with an issue of [Docusaurus](https://github.com/facebook/docusaurus/pull/6139) :sauropod:
+- Created a few chatbots for Discord and Messenger — because I have no IRL friends :robot:
+- Played around with React.js apps (mostly just to impress my non-tech friends) :zap:
+- Cooked up random and silly tools :wrench: (because why not?)
+- Learned K-pop dance choreos :dancer:
 
 ### Contacts
-**Email**: [pham.lminh512@gmail.com](pham.lminh512@gmail.com)
-
-***
-
-### Notable Projects & Contributions
-**Static Site Generator**
-- A CLI static site generator that creates ready-to-serve HTML pages from text or markdown files.
-- Incorporated code formatter, linter, unit testing, e2e testing and CI/CD.
-- [Project's repo link](https://github.com/lmpham1/cool_ssg_generator)
-
-**Contributed to [facebook/docusaurus](https://github.com/facebook/docusaurus)**
-- Collaborated with Docusaurus’ maintainers to add a new feature that allows users to link a Navbar item with a Sidebar object with ease (Read more in my [blog series](https://medium.com/@lmpham1/next-step-in-open-source-60b31d185ff7))
-- [Pull request link](https://github.com/facebook/docusaurus/pull/6139)
-
-**Fragment - A microservice with AWS cloud integration**
-- Developed a Node.js microservice that allows optimized CRUD operations using AWS S3 and DynamoDB, and manages user authentication with AWS Cognito using OAuth 2.0 protocol.
-- Wrote unit tests and integration tests with Jest and Hurl.
-- Automated CI, CD, and deployment with Git, Docker, AWS EC2, and Elastic Beanstalk.
-- Project repos:
-  - [Backend](https://github.com/lmpham1/fragments_backend)
-  - [Frontend](https://github.com/lmpham1/fragments_frontend)
-
-**Game Deals Web App**
-- Implemented and tested a React + Node.js + MongoDB web application that lets users see the price difference between multiple video game vendors, and creates email alerts for when games in user's wishlist go on sales
-- Collaborated with a team of three other developers throughout the SDLC
-- Built a live search functionality that improved seach results, and used passport.js to manage user authentication and authorization to wishlist functions
-- [Project's repo link](https://github.com/lmpham1/Game_Deals_Web_App)
-
-**Contributed to [Tetracyl/EarTensifier](https://github.com/Tetracyl/EarTensifier) (a discord audio serving bot)**
-- Added a command that clear up to 100 most recent bot messages in a channel
-- [Pull request link](https://github.com/Tetracyl/EarTensifier/pull/67)
+📧: [e-Mail](pham.lminh512@gmail.com)  
+:bird: [~~Twitter~~ X](x.com/est2000vn)
+📷 [Instagram](www.instagram.com/minhl_pham/)
 
 <!---
 lmpham1/lmpham1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
