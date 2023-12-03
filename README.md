@@ -8,7 +8,7 @@ Anyways, I'm a software developer based in Toronto, Canada.
 ## (un)Exciting stuff I've worked on
 - Fiddled with an issue of [Docusaurus](https://github.com/facebook/docusaurus/pull/6139) :sauropod:
 - Created a few chatbots for Discord and Messenger — because I have no IRL friends :robot:
-- Played around with React.js apps (mostly just to impress my non-tech friends) :zap:
+- Played around with fancy frameworks :atom: :zap:
 - Cooked up random and silly tools :wrench:
 - (Attempted to) learn K-pop dance choreos :dancer:
 
