@@ -16,7 +16,7 @@ My goal is to find a job fulfilling enough that I can stop googling up "how to s
 
 ### Contacts
 📧 [e-Mail](pham.lminh512@gmail.com)  
-🔷[LinkedIn](linkedin.com/in/lmpham1)  
+🔷 [LinkedIn](linkedin.com/in/lmpham1)  
 :bird: [~~Twitter~~ X](x.com/est2000vn)  
 📷 [Instagram](www.instagram.com/minhl_pham/)
 
