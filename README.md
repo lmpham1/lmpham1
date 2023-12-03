@@ -10,7 +10,7 @@ Anyways, I'm a software developer based in Toronto, Canada.
 - Created a few chatbots for Discord and Messenger — because I have no IRL friends :robot:
 - Played around with React.js apps (mostly just to impress my non-tech friends) :zap:
 - Cooked up random and silly tools :wrench: (because why not?)
-- Learned K-pop dance choreos :dancer:
+- (Attempted to) learn K-pop dance choreos :dancer:
 
 My goal is to find a job fulfilling enough that I can stop googling up "how to start a content-creating career".
 
