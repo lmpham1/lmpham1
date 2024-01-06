@@ -5,7 +5,7 @@
 The 'h' is not silent, but you can pretend it is. Vietnamese is a weird language.  
 Anyways, I'm a software developer based in Toronto, Canada.
 
-## (un)Exciting stuff I've worked on
+## Exciting stuff I've worked on
 - Fiddled with an issue of [Docusaurus](https://github.com/facebook/docusaurus/pull/6139) :sauropod:
 - Created a few chatbots for Discord and Messenger — because I have no IRL friends :robot:
 - Played around with fancy frameworks :atom: :zap:
