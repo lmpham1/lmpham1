@@ -2,8 +2,7 @@
 
 ## Hello, my name is Minh 
 
-The 'h' is not silent, but you can pretend it is. Vietnamese is a weird language.  
-Anyways, I'm a software developer based in Toronto, Canada.
+I'm a software developer based in Toronto, Canada.
 
 ## Exciting stuff I've worked on
 - Fiddled with an issue of [Docusaurus](https://github.com/facebook/docusaurus/pull/6139) :sauropod:
